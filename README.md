@@ -12,7 +12,8 @@ RAmazon is a simple Node.js and MySQL storefront application that uses Ethereum 
 RAmazon utilizes Node Package Manager (NPM) to install features. The user will need to install a number of packages in order to use the application.
 
 ## Clone Ramazon Repository
-In the console, navigate to the directory where you wish to install RAmazon. Type ```git clone``` ```https://github.com/richtt18/RAmazon.git``` to clone the repository. This will create a local copy of RAmazon files on your system.
+In the console, navigate to the directory where you wish to install RAmazon.
+Type ```git clone https://github.com/richtt18/RAmazon.git``` to clone the repository. This will create a local copy of RAmazon files on your system.
 
 ## Packages
 All dependencies are tracked in the provided package.json and package-lock.json files. In the console, navigate into the cloned directory ("ramazon") and type ```npm install``` This will install the following NPM packages:
