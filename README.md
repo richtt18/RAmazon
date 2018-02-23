@@ -13,7 +13,8 @@ RAmazon utilizes Node Package Manager (NPM) to install features. The user will n
 
 ## Clone Ramazon Repository
 In the console, navigate to the directory where you wish to install RAmazon.
-Type ```git clone https://github.com/richtt18/RAmazon.git``` to clone the repository. This will create a local copy of RAmazon files on your system.
+
+Then type ```git clone https://github.com/richtt18/RAmazon.git``` to clone the repository. This will create a local copy of RAmazon files on your system.
 
 ## Packages
 All dependencies are tracked in the provided package.json and package-lock.json files. In the console, navigate into the cloned directory ("ramazon") and type ```npm install``` This will install the following NPM packages:
