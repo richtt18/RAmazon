@@ -1,0 +1,33 @@
+{
+  "name": "ramazon",
+  "version": "1.0.0",
+  "description": "ETHER PALACE",
+  "main": "ramazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richtt18/RAmazon.git"
+  },
+  "keywords": [
+    "MANAKIN",
+    "SUPREME",
+    "MANARK",
+    "RACING",
+    "RICH",
+    "SCHMITT"
+  ],
+  "author": "RICH SCHMITT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/richtt18/RAmazon/issues"
+  },
+  "homepage": "https://github.com/richtt18/RAmazon#readme",
+  "dependencies": {
+    "clear": "0.0.1",
+    "inquirer": "^5.1.0",
+    "mysql": "^2.15.0",
+    "table": "^4.0.2"
+  }
+}
